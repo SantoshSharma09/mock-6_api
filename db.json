@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "san",
+      "email": "san@gmail.com",
+      "pass": "san123",
+      "id": 2
+    },
+    {
+      "username": "santosh",
+      "email": "santosh@gmail.com",
+      "pass": "san123",
+      "id": 3
+    }
+  ],
+  "login": [
+    {
+      "email": "san@gmail.com",
+      "pass": "san123",
+      "id": 1
+    }
+  ],
+  "recipes": []
+}
